@@ -2926,9 +2926,9 @@ relateurl@0.2.x:
   version "0.2.7"
   resolved "https://registry.yarnpkg.com/relateurl/-/relateurl-0.2.7.tgz#54dbf377e51440aca90a4cd274600d3ff2d888a9"
 
-release-me@1.4.1:
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/release-me/-/release-me-1.4.1.tgz#3006939cfaded1c97a714955e3a738a1b24e7088"
+release-me@1.4.2:
+  version "1.4.2"
+  resolved "https://registry.yarnpkg.com/release-me/-/release-me-1.4.2.tgz#b411b92ac0202ec2387c40058c958665636afabf"
   dependencies:
     chalk "^2.0.0"
     conventional-changelog-core "^1.8.0"
@@ -2938,7 +2938,7 @@ release-me@1.4.1:
     fs-access "^1.0.0"
     q "^1.5.0"
     semver "^5.1.0"
-    yargs "^8.0.1"
+    yargs "^10.0.3"
 
 remove-trailing-separator@^1.0.1:
   version "1.1.0"
@@ -3884,12 +3884,6 @@ yallist@^2.1.2:
 yargs-parser@^7.0.0:
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-7.0.0.tgz#8d0ac42f16ea55debd332caf4c4038b3e3f5dfd9"
-  dependencies:
-    camelcase "^4.1.0"
-
-yargs-parser@^8.0.0:
-  version "8.1.0"
-  resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-8.1.0.tgz#f1376a33b6629a5d063782944da732631e966950"
   dependencies:
     camelcase "^4.1.0"
 
