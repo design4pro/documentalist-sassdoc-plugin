@@ -10,7 +10,7 @@
   },
   "homepage": "https://github.com/design4pro/documentalist-sassdoc#readme",
   "devDependencies": {
-    "codecov": "3.1.0",
+    "codecov": "3.6.5",
     "commitizen": "3.0.2",
     "cz-release-me": "1.6.1",
     "nyc": "13.1.0",
